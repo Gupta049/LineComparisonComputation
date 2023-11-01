@@ -6,7 +6,7 @@ public class LineComparison {
     public static void main(String[] args) {
         System.out.println("Welcome to Line Comparison Computation Program");
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter the cordinate value for first line");
+        System.out.println("Enter the co-ordinate value for first line");
         System.out.print("Enter the x1 co-ordinate of first point ");
         double x1 = sc.nextDouble();
         System.out.print("Enter the y1 co-ordinate of first point ");
